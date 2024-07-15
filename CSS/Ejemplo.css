@@ -1,0 +1,16 @@
+h1 {
+    color: blueviolet; /* Le puse color al titulo */
+}
+
+/* ¿como le pongo color a una clase?  */
+
+.Bienvenida{
+    color: aqua;
+}
+
+/*¿y si quiero ponerle color a un ID*/
+#TipoAdop{
+    color: red;
+}
+
+  
